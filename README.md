@@ -1,7 +1,7 @@
 
-📝 README: Potato Disease Classification Using CNN
-------------------------------------------------------
-------------------------------------------------------
+📝 Potato Disease Classification Using CNN 📝 
+-----------------------------------------------
+-----------------------------------------------
 
 🌱 Project Overview
 This project leverages Convolutional Neural Networks (CNNs) to classify potato leaf diseases (Early Blight, Late Blight, Healthy)
