@@ -15,15 +15,15 @@ from images. It aims to automate disease detection for farmers, enabling early i
 ✅ Real-Time: Processes images with confidence scores.
 
 📂 Project Structure
-├── app.py                  # Flask web application  
-├── model.keras             # Trained CNN model (Git LFS)  
-├── static/                 # Sample images for testing  
-│   ├── potato_icon.png  
-│   └── disease_samples.JPG  
-├── templates/              # HTML frontend  
-│   └── index.html  
-├── Notebook.ipynb          # Jupyter notebook for model development  
-└── requirements.txt        # Python dependencies  
+    ── app.py                  # Flask web application  
+    ── model.keras             # Trained CNN model (Git LFS)  
+    ── static/                 # Sample images for testing  
+            ─ potato_icon.png  
+            ─ disease_samples.JPG  
+    ── templates/              # HTML frontend  
+            ─ index.html  
+    ── Notebook.ipynb          # Jupyter notebook for model development  
+    ── requirements.txt        # Python dependencies  
 
 🛠️ Methodology
 1. Data Loading & Preprocessing
