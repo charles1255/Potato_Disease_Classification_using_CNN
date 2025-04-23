@@ -18,10 +18,10 @@ from images. It aims to automate disease detection for farmers, enabling early i
     ── app.py                  # Flask web application  
     ── model.keras             # Trained CNN model (Git LFS)  
     ── static/                 # Sample images for testing  
-            ─ potato_icon.png  
-            ─ disease_samples.JPG  
+            ─> potato_icon.png      #Inside Static folder
+            ─> disease_samples.JPG  #Inside Static folder
     ── templates/              # HTML frontend  
-            ─ index.html  
+            ─> index.html              #Inside templates folder
     ── Notebook.ipynb          # Jupyter notebook for model development  
     ── requirements.txt        # Python dependencies  
 
