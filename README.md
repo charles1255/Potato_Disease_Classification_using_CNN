@@ -81,18 +81,18 @@ Place images in static/ and modify app.py for predictions.
 
 📊 Performance Metrics
 
-Metric	     |      Value
---------------------------
-Training     |
-Accuracy     |     	97.32%
-             |
-Validation   |
-Accuracy     |    	98.44%
-             | 
-Test         |
-Accuracy     |     	98.99%
-             |
-Loss	       |       0.0799
+
+Training     
+Accuracy - 97.32%
+             
+Validation   
+Accuracy - 98.44%
+              
+Test        
+Accuracy -  98.99%
+             
+Loss	  -   0.0799
+
 
 🌟 Advantages:
 Early disease detection → Prevents yield loss.
